@@ -60,5 +60,3 @@ CodePath Cybersecurity 101 covers the following technical concepts:
 
 ---
 
-## 📁 Repository Structure
-
